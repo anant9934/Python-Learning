@@ -1,0 +1,2 @@
+letter = "Dear anant kumar,\nWe are pleased to inform you that you have been selected for the position of AI and ML Engineer.\nthank you for your interest in our company.\nWe look forward to working with you."
+print(letter)

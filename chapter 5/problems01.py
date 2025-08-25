@@ -1,0 +1,31 @@
+dic = {
+     "apple" : "a fruit that is red or green",
+        "banana" : "a long yellow fruit",
+        "cherry" : "a small round fruit that is red or black",
+        "date" : "a sweet brown fruit that grows on palm trees",
+        "elderberry" : "a small dark purple fruit",
+        "fig" : "a small pear-shaped fruit that is purple or green",
+        "grape" : "a small round fruit that grows in bunches",
+        "honeydew" : "a large round fruit with a smooth green skin and sweet yellow flesh", 
+        "indian fig" : "a type of cactus fruit that is sweet and juicy",
+        "jackfruit" : "a large tropical fruit with a spiky skin and sweet yellow flesh",
+        "kiwi" : "a small brown fruit with green flesh and tiny black seeds",
+        "lemon" : "a yellow fruit that is sour and used to make lemonade",
+        "mango" : "a tropical fruit with a smooth skin and sweet yellow flesh",
+        "nectarine" : "a smooth-skinned fruit similar to a peach",
+        "orange" : "a round citrus fruit with a tough orange skin and sweet juicy flesh",
+        "papaya" : "a large tropical fruit with a smooth skin and sweet orange flesh",
+        "quince" : "a hard yellow fruit that is often used to make jelly",
+        "raspberry" : "a small red or black fruit with a sweet taste",
+        "strawberry" : "a small red fruit with tiny seeds on its surface",
+        "tangerine" : "a small citrus fruit with a loose orange skin",
+        "ugli fruit" : "a hybrid fruit that is a cross between a grapefruit, an orange, and a tangerine",
+        "vanilla bean" : "the pod of the vanilla orchid, used to flavor food",
+        "watermelon" : "a large fruit with a green rind and sweet red or pink flesh",
+        "xigua" : "a type of watermelon that is smaller and sweeter",
+        "yellow passion fruit" : "a small round fruit with a tough yellow skin and sweet yellow flesh",
+        "zucchini" : "a type of summer squash that is green and cylindrical",   
+}
+
+c = input("Enter a word: ").strip().lower()
+print(dic[c])
