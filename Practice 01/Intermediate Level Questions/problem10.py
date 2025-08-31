@@ -1,0 +1,1 @@
+#Write a function to calculate factorial using both for loop and while loop approaches.
