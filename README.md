@@ -1,2 +1,3 @@
 # Python-Learning
 Author Anant kumar
+<p>I am currently tracking my Python learning journey, which is primarily based on self-practice and hands-on coding. Through consistent effort, I am gradually building a strong foundation in core concepts like loops, control structures, data structures, and problem-solving techniques. This journey helps me not only understand theoretical aspects but also apply them in practical coding challenges and real-world scenarios. By solving progressively complex problems, I aim to sharpen my programming skills and prepare for technical interviews and industry requirements. This self-driven approach allows me to learn at my own pace while continuously measuring my progress and improving my confidence as a Python programmer.</p>
